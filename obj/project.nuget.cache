@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+B8ortjudRPjQwTEml5mfNoAyReIT4xNZYlOimD9chipRlIRVdP1ipe7/GM72i7us2jSScJtRaSJfzAH1mQaqQ==",
+  "dgSpecHash": "ogGWTpN/WtFeOfqdZGWDbjMIk+arEEk8WVi3O34oRoniExlIwq+QyqddNHl/VJhTGOTQZKPDQl/Ti47/Sg68+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jean.jorge.michel\\Documents\\Projetos C Sharp\\SeleniumTestsWithCSharp\\SeleniumTestsWithCSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
-    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
+    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }

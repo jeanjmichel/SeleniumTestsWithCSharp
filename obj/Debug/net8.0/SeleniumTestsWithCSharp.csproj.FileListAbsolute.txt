@@ -20,3 +20,4 @@ C:\Users\jean.jorge.michel\Documents\Projetos C Sharp\SeleniumTestsWithCSharp\ob
 C:\Users\jean.jorge.michel\Documents\Projetos C Sharp\SeleniumTestsWithCSharp\obj\Debug\net8.0\SeleniumTestsWithCSharp.pdb
 C:\Users\jean.jorge.michel\Documents\Projetos C Sharp\SeleniumTestsWithCSharp\obj\Debug\net8.0\SeleniumTestsWithCSharp.genruntimeconfig.cache
 C:\Users\jean.jorge.michel\Documents\Projetos C Sharp\SeleniumTestsWithCSharp\obj\Debug\net8.0\ref\SeleniumTestsWithCSharp.dll
+C:\Users\jean.jorge.michel\Documents\Projetos C Sharp\SeleniumTestsWithCSharp\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
