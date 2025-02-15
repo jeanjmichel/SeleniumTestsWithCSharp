@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ogGWTpN/WtFeOfqdZGWDbjMIk+arEEk8WVi3O34oRoniExlIwq+QyqddNHl/VJhTGOTQZKPDQl/Ti47/Sg68+w==",
+  "dgSpecHash": "SSsGV0IbYFm2/ywzX6xmEmvZ5P6zZrbtvZ+31zF7WEDumx3sb4QP7x7YgAOcrtgVG6J+a5nFaERgcUrU8tQMVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jean.jorge.michel\\Documents\\Projetos C Sharp\\SeleniumTestsWithCSharp\\SeleniumTestsWithCSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
     "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
-    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\jean.jorge.michel\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
